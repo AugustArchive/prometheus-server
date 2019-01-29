@@ -1,0 +1,12 @@
+{
+    "name": "@maika.xyz/prometheus",
+    "description": "An Prometheus server for Maika",
+    "version": "0.0.1",
+    "main": "build/server.js",
+    "scripts": { "build": "tsc" },
+    "devDependencies": {
+        "@types/node": "10.12.19",
+        "prom-client": "11.2.1",
+        "typescript": "3.2.4"
+    }
+}
