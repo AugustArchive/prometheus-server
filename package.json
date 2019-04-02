@@ -6,7 +6,7 @@
     "scripts": { "build": "tsc" },
     "devDependencies": {
         "@types/node": "10.12.19",
-        "prom-client": "11.2.1",
+        "prom-client": "11.3.0",
         "typescript": "3.2.4"
     }
 }
